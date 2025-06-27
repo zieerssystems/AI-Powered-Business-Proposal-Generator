@@ -1,0 +1,171 @@
+/* Overall page container */  
+.homepage-container {
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #f0f2f5;
+}
+
+/* Carousel image size */
+.homepage-carousel .banner-img {
+  height: 90vh;
+  object-fit: cover;
+}
+
+/* Top carousel text positioning and style */
+.carousel-caption {
+  top: 25%;
+  bottom: auto;
+  transform: translateY(0);
+  background: rgba(163, 159, 159, 0.7);
+  padding: 1.5rem;
+  border-radius: 10px;
+}
+
+/* Main banner title */
+.banner-title {
+  font-size: 3.6rem; /* ⬆ Increased */
+  font-weight: bold;
+  color: #000;
+  text-shadow: none;
+}
+
+/* Main banner subtitle */
+.banner-subtitle {
+  font-size: 1.8rem; /* ⬆ Increased */
+  color: #000;
+  margin-top: 0.5rem;
+  text-shadow: none;
+}
+
+/* About section background and layout */
+.about-section {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding: 4rem 2rem;
+  background-color: #030311f7;
+}
+
+/* About card styling */
+.about-card {
+  background-color: #e6e6ec;
+  border: none;
+  padding: 3rem;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 100%;
+}
+
+/* About title */
+.about-title {
+  font-size: 2.6rem; /* ⬆ Increased */
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+/* About paragraph text */
+.about-text {
+  font-size: 1.8rem; /* ⬆ Increased */
+  color: #34495e;
+  line-height: 2;
+}
+
+/* Buttons in about section */
+.homepage-btn {
+  font-size: 1.4rem; /* ⬆ Increased */
+  padding: 1rem 2.5rem;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect for buttons */
+.homepage-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Second carousel section container */
+.secondary-carousel-container {
+  padding: 4rem 0;
+  background-color: #fdfdfd;
+}
+
+/* Section heading */
+.section-heading {
+  font-size: 2.6rem; /* ⬆ Increased */
+  font-weight: 600;
+  color: #2d3436;
+}
+
+/* Secondary carousel images */
+.secondary-carousel img {
+  height: 500px;
+  object-fit: cover;
+}
+
+/* Text over secondary carousel */
+.secondary-carousel .carousel-caption {
+  background: rgba(14, 13, 13, 0.8);
+  padding: 1rem;
+  border-radius: 8px;
+  color: #f0f3f5;
+}
+
+.secondary-carousel .carousel-caption h3 {
+  font-size: 2.2rem; /* ⬆ Increased */
+  font-weight: bold;
+  color: #000;
+}
+
+.secondary-carousel .carousel-caption p {
+  font-size: 1.4rem; /* ⬆ Increased */
+  color: #333;
+}
+
+/* ✅ BACKGROUND IMAGE SECTION WITH CARDS */
+.home-background {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 4rem 1rem;
+}
+
+/* Wrap the card to stretch fully inside col */
+.project-cards-container {
+  background-color: #010a18;
+  padding: 4rem 1rem;
+}
+
+.project-card-wrapper {
+  padding: 0.5rem;
+}
+
+.project-card {
+  height: 280px;
+  width: 100%;
+  border-radius: 18px;
+  padding: 1.5rem;
+  background-color: #ffffff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.project-card .card-title {
+  font-size: 1.8rem; /* ⬆ Increased */
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.project-card .card-text {
+  font-size: 1.3rem; /* ⬆ Increased */
+  color: #555;
+}

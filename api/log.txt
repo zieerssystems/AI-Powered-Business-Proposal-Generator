@@ -1,0 +1,299 @@
+{"title":"bussiness","description":"sferg","email":null}INPUT: null
+INPUT: {"title":"bussiness","description":"adfhjj","email":null}
+INPUT: null
+INPUT: {"title":"bussiness","description":"asdfggh","email":null}
+INPUT: null
+INPUT: {"title":"bussiness","description":"adrf","email":null}
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"asdwsed","email":null}
+EXTRACTED => id:  | title: bussiness | description: asdwsed | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"uuhioj","email":null}
+EXTRACTED => id:  | title: bussiness | description: uuhioj | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"asdgh","email":null}
+EXTRACTED => id:  | title: bussiness | description: asdgh | email: 
+ERROR: Missing fields
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"vbyb","description":"ybgv","email":"arya@gmail.com"}
+EXTRACTED => id:  | title: vbyb | description: ybgv | email: arya@gmail.com
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"joyce","email":"arya@gmail.com"}
+EXTRACTED => id:  | title: bussiness | description: joyce | email: arya@gmail.com
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test1","description":"test","email":"anu@gmail.com"}
+EXTRACTED => id:  | title: test1 | description: test | email: anu@gmail.com
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":",mm","email":"anu@gmail.com"}
+EXTRACTED => id:  | title: bussiness | description: ,mm | email: anu@gmail.com
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":5,"title":"bussiness","description":",mm","email":"anu@gmail.com"}
+EXTRACTED => id: 5 | title: bussiness | description: ,mm | email: anu@gmail.com
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"gyui","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: gyui | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test1","description":"test","email":"riya@11"}
+EXTRACTED => id:  | title: test1 | description: test | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"ggbhg","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: ggbhg | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test2","description":"rfrgtg","email":"joy@123"}
+EXTRACTED => id:  | title: test2 | description: rfrgtg | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":";['']\\\n","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: ;['']\ | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":";plkkkj","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: ;plkkkj | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"lk,lk","description":"kml","email":"joy@123"}
+EXTRACTED => id:  | title: lk,lk | description: kml | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test2","description":"nj,ml","email":"joy@123"}
+EXTRACTED => id:  | title: test2 | description: nj,ml | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"dedewdedewd","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: dedewdedewd | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"hnilk,m lk,","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: hnilk,m lk, | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"nhklkml","email":"joy@123"}
+EXTRACTED => id:  | title: bussiness | description: nhklkml | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":13,"title":"test2","description":"nj,ml","email":"joy@123"}
+EXTRACTED => id: 13 | title: test2 | description: nj,ml | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":13,"title":"test2","description":"nj,mluujoi","email":"joy@123"}
+EXTRACTED => id: 13 | title: test2 | description: nj,mluujoi | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":15,"title":"bussiness","description":"test","email":"joy@123"}
+EXTRACTED => id: 15 | title: bussiness | description: test | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test2","description":"test","email":"joy@123"}
+EXTRACTED => id:  | title: test2 | description: test | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test1","description":"test","email":"joy@123"}
+EXTRACTED => id:  | title: test1 | description: test | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":15,"title":"bussiness","description":"test","email":"joy@123"}
+EXTRACTED => id: 15 | title: bussiness | description: test | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":15,"title":"bussiness","description":"testsdsca","email":"joy@123"}
+EXTRACTED => id: 15 | title: bussiness | description: testsdsca | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test3","description":"test","email":"joy@123"}
+EXTRACTED => id:  | title: test3 | description: test | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test21","description":"req2","email":"joy@123"}
+EXTRACTED => id:  | title: test21 | description: req2 | email: joy@123
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":20,"title":"test22","description":"test","email":"joy@123"}
+EXTRACTED => id: 20 | title: test22 | description: test | email: joy@123
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness","description":"bussiness","email":"riya@11"}
+EXTRACTED => id:  | title: bussiness | description: bussiness | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"test1","description":"test","email":"riya@11"}
+EXTRACTED => id: 7 | title: test1 | description: test | email: riya@11
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"NONE","description":"none","email":"riya@11"}
+EXTRACTED => id:  | title: NONE | description: none | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"test1","description":"test","email":"riya@11"}
+EXTRACTED => id: 7 | title: test1 | description: test | email: riya@11
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"ambulance","description":"fast","email":"riya@11"}
+EXTRACTED => id:  | title: ambulance | description: fast | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test4","description":"jhik","email":"joyce6th23@gmail.com"}
+EXTRACTED => id:  | title: test4 | description: jhik | email: joyce6th23@gmail.com
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"Cafe","description":"services","email":"riya@11"}
+EXTRACTED => id:  | title: Cafe | description: services | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":" razor cafe","description":"billing machine \ntables","email":"riya@11"}
+EXTRACTED => id:  | title: razor cafe | description: billing machine 
+tables | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"test4","description":"test","clientName":"joyce","clientEmail":"joyce6th23@gmail.com","projectCost":"5000","currency":"INR","projectSchedule":"2june,2025","email":"riya@11"}
+EXTRACTED => id:  | title: test4 | description: test | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"bussiness1","description":"mnbsdkjmns","clientName":"mkc.,dsm c","clientEmail":"lksmx ksal@gmail.com","projectCost":"445456","currency":"USD","projectSchedule":"2june","email":"riya@11"}
+EXTRACTED => id:  | title: bussiness1 | description: mnbsdkjmns | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"title":"anusha","description":"akshay gowda","clientName":"anusha","clientEmail":"anushasamanaunty@gmail.com","projectCost":"200","currency":"INR","projectSchedule":"2 july","email":"riya@11"}
+EXTRACTED => id:  | title: anusha | description: akshay gowda | email: riya@11
+SUCCESS: INSERT executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"Resturant","description":"startup\nInterior","clientName":"joyce","clientEmail":"joyce6th@23gmail.com","projectCost":"16001","currency":"INR","projectSchedule":"2 july","email":"riya@11"}
+EXTRACTED => id: 7 | title: Resturant | description: startup
+Interior | email: riya@11
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"Resturant","description":"startup\nInterior","clientName":"","clientEmail":"","projectCost":"","currency":"USD","projectSchedule":"","email":"riya@11"}
+EXTRACTED => id: 7 | title: Resturant | description: startup
+Interior | email: riya@11
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"Resturant","description":"startup\nInterior","clientName":"","clientEmail":"","projectCost":"","currency":"USD","projectSchedule":"","email":"riya@11"}
+EXTRACTED => id: 7 | title: Resturant | description: startup
+Interior | email: riya@11
+SUCCESS: UPDATE executed.
+RAW INPUT: null
+EXTRACTED => id:  | title:  | description:  | email: 
+ERROR: Missing fields
+RAW INPUT: {"id":7,"title":"momo shop","description":"vegetables\nmasala","clientName":"joyce","clientEmail":"joyce6th23@gmail.com","projectCost":"5424","currency":"USD","projectSchedule":"2 july,2002","email":"riya@11"}
+EXTRACTED => id: 7 | title: momo shop | description: vegetables
+masala | email: riya@11
+SUCCESS: UPDATE executed.

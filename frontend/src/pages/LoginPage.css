@@ -1,0 +1,105 @@
+/* Full-page background */
+.login-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+/* Login box styling */
+.login-form-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 60px 50px;
+  border-radius: 25px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 500px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Login box hover (optional effect) */
+.login-form-box:hover {
+  transform: translateY(-5px);
+}
+
+/* Heading style */
+.login-form-box h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2c2c2c;
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+/* Label styling */
+.login-form-box .form-label {
+  font-weight: 600;
+  color: #444;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+/* Input fields */
+.login-form-box .form-control {
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Input focus effect */
+.login-form-box .form-control:focus {
+  border-color: #0056b3;
+  box-shadow: 0 0 8px rgba(0, 86, 179, 0.2);
+  outline: none;
+}
+
+/* Login button */
+.login-form-box .btn {
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #007bff;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.login-form-box .btn:hover {
+  background-color: #0056b3;
+}
+
+/* Paragraphs under the form */
+.login-form-box .text-center p {
+  margin: 15px 0 0;
+  font-size: 15px;
+  color: #555;
+}
+
+/* Link style */
+.login-form-box .text-center a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+/* Hover for links */
+.login-form-box .text-center a:hover {
+  color: #004c99;
+}
+footer {
+  z-index: 2;
+  position: relative;
+}
+.login-footer-separator {
+  height: 60px; /* Adjust height as needed */
+  background: transparent;
+}
